@@ -1,6 +1,6 @@
 # Consumo em Foco — Água + Energia
 
-Site educativo desenvolvido para o **Projeto 3 de Extensão Universitária — Economia Sustentável**, do curso de Análise e Desenvolvimento de Sistemas (ADS) da Cruzeiro do Sul Virtual.
+Site educativo desenvolvido para o **Projeto de Extensão Universitária — Economia Sustentável**, do curso de Análise e Desenvolvimento de Sistemas (ADS) da Cruzeiro do Sul Virtual.
 
 **Comunidade parceira:** Colégio Estadual Professora Dirce Celestino do Amaral — CIC, Curitiba/PR.
 
