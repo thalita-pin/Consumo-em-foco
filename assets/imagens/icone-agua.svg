@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-labelledby="titulo">
+<title id="titulo">Gota de água</title>
+<path d="M50 7C36 25 21 46 21 61a29 29 0 0 0 58 0C79 46 64 25 50 7Z" fill="#EBEBD3" stroke="#083D77" stroke-width="6" stroke-linejoin="round"/>
+<path d="M36 59c0 11 6 17 16 19" fill="none" stroke="#EE964B" stroke-linecap="round" stroke-width="6"/>
+</svg>

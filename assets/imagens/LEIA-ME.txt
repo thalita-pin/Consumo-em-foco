@@ -1,0 +1,19 @@
+IMAGENS DO SITE — PROJETO 3
+
+Todos os arquivos nesta pasta sao SVG (vetores editaveis):
+- ilustracao-agua-energia.svg: arte grande da secao inicial
+- simbolo-logo.svg: simbolo do logotipo do cabecalho
+- icone-agua.svg: desenho do bloco Agua
+- icone-energia.svg: desenho do bloco Energia
+
+Para editar as formas e cores: abra no Inkscape ou editor de SVG.
+Para trocar por outra imagem: mantenha o mesmo nome e extensao,
+ou altere o caminho no index.html (atributo src).
+
+CORES DO PROJETO
+- Azul-marinho: #083D77
+- Bege: #EBEBD3
+- Amarelo-ouro: #F4D35E
+- Laranja: #EE964B
+
+O cartaz e o QR Code serao feitos separadamente no Canva e nao fazem parte deste site.
