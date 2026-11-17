@@ -41,7 +41,6 @@ Site educativo desenvolvido para o **Projeto de Extensão Universitária — Eco
 - Abra `index.html` depois de salvar. Se a imagem não atualizar no navegador, pressione `Ctrl + F5` para recarregar sem cache.
 - Não renomeie a pasta `assets/imagens` sem corrigir os caminhos no HTML.
 
-**Importante:** SVG é um formato de imagem vetorial editável. As imagens fazem parte do site como arquivos reais, não estão mais desenhadas diretamente dentro do HTML. O cartaz continua fora do site e será produzido no Canva.
 
 ## Como abrir no computador
 
@@ -49,15 +48,6 @@ Site educativo desenvolvido para o **Projeto de Extensão Universitária — Eco
 2. Abra `index.html` com Chrome, Edge ou Firefox.
 3. Teste a calculadora e o desafio: funcionam sem instalar nada e sem conexão à internet.
 
-## Como publicar gratuitamente (GitHub Pages)
-
-1. Entre no GitHub e crie um repositório público (por exemplo, `consumo-em-foco`).
-2. Envie o conteúdo da pasta (arquivos na raiz do repositório, incluindo a pasta `assets`).
-3. Vá a **Settings > Pages**, selecione **Deploy from a branch**, escolha a branch principal (`main`) e a pasta `/(root)`.
-4. Acesse o endereço publicado informado pelo GitHub Pages (pode levar um tempo para o serviço disponibilizar o site).
-5. **O cartaz não faz parte do site:** após publicar, crie o cartaz externamente no Canva, adicione um QR Code apontando para a URL pública do site e teste o QR Code com outro celular antes de imprimir.
-
-Também pode publicar arrastando a pasta no serviço de hospedagem estática de sua preferência. A estrutura não exige banco de dados, frameworks ou instalação de dependências.
 
 ## Como usar a calculadora
 
@@ -91,13 +81,6 @@ Exemplo ilustrativo: chuveiro elétrico de 5.500 W, 30 minutos ao dia e 30 dias 
 
 As referências são externas e podem mudar de endereço. Os dados citados referem-se ao Brasil e não comprovam desperdício específico na escola.
 
-## O que registrar para a DreamShaper
-
-- Capturas de tela do site no celular e no computador.
-- Uma simulação da calculadora, com valores exemplificativos claramente identificados.
-- Fotografia do cartaz criado externamente no Canva, com QR Code apontando para o site, afixado em local autorizado da escola.
-- Registro das opiniões dos participantes ou das atividades efetivamente realizadas.
-- Se for medir acessos reais, utilizar um método transparente e compatível com a LGPD. O site, como entregue, **não registra visitas**.
 
 ## Licença e uso
 
